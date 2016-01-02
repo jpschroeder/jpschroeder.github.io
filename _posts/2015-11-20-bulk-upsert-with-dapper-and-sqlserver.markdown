@@ -152,7 +152,7 @@ public static class EnumerableExtension
 }
 {% endhighlight %}
 
-In closing, I hope that this helps the two people (myself included) who might actually read it. If are the other person, please feel free to contact me at the email below.  You can yell at me for all of the stupid things I probably did wrong or, even better, show me a better way. 
+In closing, I hope that this helps the two people (myself included) who might actually read it. If you are the other person, please feel free to contact me at the email below.  You can yell at me for all of the stupid things I probably did wrong or, even better, show me a better way. 
 
 
 [github_source]: https://github.com/jpschroeder/bulkupsertsample
